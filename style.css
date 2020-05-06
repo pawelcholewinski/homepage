@@ -1,0 +1,27 @@
+body{
+    background: #f1f5f2;
+}
+.heeder-heading {
+    color: #03045e;
+}
+nav a {
+    color: black;
+}
+.article-heading {
+color: #8CFF98;     
+background: #fcffeb;
+}
+.article-topic {
+    color: #364652;
+}
+.article-text {
+    color: #071108; 
+    background-color: #ffffff;
+}
+#footer {
+    color: #62b6cb;
+    background: black;s
+}
+footer a {
+    color: #62b6cb;
+}
