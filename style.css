@@ -1,22 +1,23 @@
 body{
     background: #f1f5f2;
 }
-.heeder-heading {
+.main {
     color: #03045e;
 }
 nav a {
     color: black;
 }
-.article-heading {
+.article__heading {
 color: #8CFF98;     
 background: #fcffeb;
 }
-.article-topic {
+.article__topic {
     color: #364652;
 }
-.article-text {
+.article__text {
     color: #071108; 
     background-color: #ffffff;
+    padding: 10px;
 }
 #footer {
     color: #62b6cb;
@@ -24,4 +25,9 @@ background: #fcffeb;
 }
 footer a {
     color: #62b6cb;
+}
+.main {
+    width: 1000px;
+    margin: auto;
+    position: relative;
 }
